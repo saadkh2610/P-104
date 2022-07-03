@@ -1,0 +1,13 @@
+body {
+    background-color: gold;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+}
+#camera{
+    border: 2px;
+    border-style: dotted;
+    height: 300px;
+    width: 350px;
+    }
